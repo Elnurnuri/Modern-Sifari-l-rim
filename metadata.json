@@ -1,0 +1,8 @@
+{
+  "name": "Modern-Sifarişlərim",
+  "description": "Panshop üçün müasir, zərif və interaktiv sifariş izləmə və çatdırılma idarəetmə paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
